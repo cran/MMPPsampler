@@ -1,0 +1,14 @@
+11c087915b309451bc186ad59e6f2936 *DESCRIPTION
+caad9bcecd996391415163a82c82c630 *NAMESPACE
+a26aba5531466baf38991ecec32613eb *R/RcppExports.R
+adfa7c71369fbeca339ce13ec8b66d99 *R/Rfunctions.R
+1239f6da76a825c880884ad29b45dd26 *build/partial.rdb
+19655837f377ddbc841ac752c610daba *data/TestdataMMPP.RData
+0d35e33c9dfa5fdba2e2c78b33c21615 *data/Testdataflows.RData
+aeddd70722c9ebc2ef5565f9c0748f5e *man/MMPPsampler-data.Rd
+e707555b3ce246092ccd81eca5e69449 *man/MMPPsampler-package.Rd
+51603e87c74bf9057aaeb8de42ea5b20 *man/MMPPsampler-plot.Rd
+7d67aeed71231e9f0a495dd596516d4a *src/Cpp_functions.cpp
+932d9c1eedd4f4b0e54aea23acf798c7 *src/Makevars
+4ddba8552d13703f25de843a61d2b1e1 *src/Makevars.win
+1924d2c07d6fc56214a606ee2683f95b *src/RcppExports.cpp
